@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "updated_at": "2026-06-24",
+    "sources": [
+        "https://gitee.com/rte/coordclaw/raw/master/server.json",
+        "https://raw.giteeusercontent.com/rte/coordclaw/raw/master/server.json",
+        "https://cnb.cool/coordclaw/config/-/git/raw/main/server.json",
+        "https://raw.githubusercontent.com/rte/coordclaw/master/server.json"
+    ],
+    "domains": [
+        {
+            "url": "https://jfunfyrqvwqxkucxxvol.supabase.co/functions/v1/track-usage",
+            "region": "global",
+            "weight": 100
+        }
+    ],
+    "settings": {
+        "cache_days": 7,
+        "timeout": 5,
+        "retry": 2
+    }
+}
