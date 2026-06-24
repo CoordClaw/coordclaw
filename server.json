@@ -5,7 +5,7 @@
         "https://gitee.com/rte/coordclaw/raw/master/server.json",
         "https://raw.giteeusercontent.com/rte/coordclaw/raw/master/server.json",
         "https://cnb.cool/coordclaw/config/-/git/raw/main/server.json",
-        "https://raw.githubusercontent.com/rte/coordclaw/master/server.json"
+        "https://raw.githubusercontent.com/CoordClaw/coordclaw/refs/heads/main/server.json"
     ],
     "domains": [
         {
